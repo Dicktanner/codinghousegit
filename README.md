@@ -8,3 +8,4 @@ Richard Tanner
 Philip Wright
 Taylor Lowe
 Bobby Whang
+Ryan Janvier
